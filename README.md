@@ -36,3 +36,11 @@
 	- [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
 	- [《Go名库讲解》](https://github.com/Unknwon/go-rock-libraries-showcases)
 	- [Go 命令教程](https://github.com/hyper-carrot/go_command_tutorial)
+
+- 开源库：
+	- 各种库汇总 https://github.com/hackstoic/golang-open-source-projects/blob/master/golang-open-source-projects.md
+
+##其它资料
+
+  - 书籍：
+  	- HTTP API 设计指南 https://github.com/mikespook/http-api-design-zh-cn
