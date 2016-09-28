@@ -44,3 +44,13 @@
 
   - 书籍：
   	- HTTP API 设计指南 https://github.com/mikespook/http-api-design-zh-cn
+	
+### 学习步骤
+
+1. go指南 对go有个概览 http://go-tour-zh.appspot.com/welcome/1 
+2. 看官方文档 http://docscn.studygolang.com/doc/
+3. 看书 语言基础/常用的标准库/常用的三方库 https://github.com/Asa-Dong/golang-study
+4. 进阶 go runtime原理 http://www.zhihu.com/question/20862617
+5. go语言圣经 https://docs.ruanjiadeng.com/gopl-zh/ （https://github.com/golang-china/gopl-zh）
+
+
