@@ -3,9 +3,11 @@
 
 - ORM 以及数据库驱动：
 	- [xorm](https://github.com/go-xorm/xorm)：支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
-	- [mgo](http://labix.org/mgo)：MongoDB 官方推荐驱动
+	- [mgo](https://github.com/go-mgo/mgo)：MongoDB 官方推荐驱动
 	
 - Web 框架：
+	- [iris](https://github.com/kataras/iris)：基于fasthttp的 Web 框架
+	- [fasthttp](https://github.com/valyala/fasthttp)  Go 的快速 HTTP 实现, 号称比net/http快10倍
 	- [Macaron](https://go-macaron.com/)：模块化 Web 框架
 	- [Beego](http://beego.me/)：重量级 Web 框架
 
@@ -14,6 +16,10 @@
 	- [Rego](http://regoio.herokuapp.com/)：Go 语言正则在线测试
 	- [gopm.io](https://gopm.io)：科学下载第三方包
 	
+- 项目配置
+	- [multiconfig](https://github.com/koding/multiconfig)
+	- [toml](https://github.com/koding/toml) 配置文件
+
 
 ## 资料汇总
 
@@ -41,12 +47,12 @@
 - 开源库：
 	- 各种库汇总 https://github.com/hackstoic/golang-open-source-projects/blob/master/golang-open-source-projects.md
 
-##其它资料
+## 其它资料
 
   - 书籍：
   	- HTTP API 设计指南 https://github.com/mikespook/http-api-design-zh-cn
 	
-### 学习步骤
+## 学习步骤
 
 1. go指南 对go有个概览 http://go-tour-zh.appspot.com/welcome/1 
 2. 看官方文档 http://docscn.studygolang.com/doc/
@@ -54,4 +60,5 @@
 4. 进阶 go runtime原理 http://www.zhihu.com/question/20862617
 5. go语言圣经 https://docs.ruanjiadeng.com/gopl-zh/ （https://github.com/golang-china/gopl-zh）
 
-
+## 其它
+[golang 配置总结](http://tonybai.com/2015/07/01/config-solutions-for-golang-app/)
