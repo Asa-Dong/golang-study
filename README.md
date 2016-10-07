@@ -61,5 +61,5 @@
 5. go语言圣经 https://docs.ruanjiadeng.com/gopl-zh/ （https://github.com/golang-china/gopl-zh）
 
 ## 其它
-[golang 配置总结](http://tonybai.com/2015/07/01/config-solutions-for-golang-app/)
-[获取当前执行路径](http://stackoverflow.com/questions/18537257/golang-how-to-get-the-directory-of-the-currently-running-file)
+- [golang 配置总结](http://tonybai.com/2015/07/01/config-solutions-for-golang-app/)
+- [获取当前执行路径](http://stackoverflow.com/questions/18537257/golang-how-to-get-the-directory-of-the-currently-running-file)
