@@ -1,6 +1,17 @@
 
 ## 网址导航
 
+- 开源库：
+	- 各种库汇总 https://github.com/hackstoic/golang-open-source-projects/blob/master/golang-open-source-projects.md
+
+- 辅助站点：
+	- [json2struct](https://mholt.github.io/json-to-go/) json 转 struct
+	- [Go Walker](https://gowalker.org)：Go 语言在线 API 文档
+	- [Rego](http://regoio.herokuapp.com/)：Go 语言正则在线测试
+	- [gopm.io](https://gopm.io)：科学下载第三方包
+	
+
+## 常用三方库
 - ORM 以及数据库驱动：
 	- [xorm](https://github.com/go-xorm/xorm)：支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
 	- [mgo](https://github.com/go-mgo/mgo)：MongoDB 官方推荐驱动
@@ -8,18 +19,18 @@
 - Web 框架：
 	- [iris](https://github.com/kataras/iris)：基于fasthttp的 Web 框架
 	- [fasthttp](https://github.com/valyala/fasthttp)  Go 的快速 HTTP 实现, 号称比net/http快10倍
-	- [Macaron](https://go-macaron.com/)：模块化 Web 框架
-	- [Beego](http://beego.me/)：重量级 Web 框架
-
-- 辅助站点：
-	- [Go Walker](https://gowalker.org)：Go 语言在线 API 文档
-	- [Rego](http://regoio.herokuapp.com/)：Go 语言正则在线测试
-	- [gopm.io](https://gopm.io)：科学下载第三方包
+	- [gin](https://github.com/gin-gonic/gin)：基于 httprouter 
+	- [beego](http://beego.me/)： 国人开发的 Web 框架
 	
 - 项目配置
 	- [multiconfig](https://github.com/koding/multiconfig)
 	- [toml](https://github.com/koding/toml) 配置文件
-
+		
+- json：
+	- https://github.com/bitly/go-simplejson
+	
+- 文件类型
+	- https://github.com/h2non/filetype
 
 ## 资料汇总
 
@@ -44,14 +55,12 @@
 	- [《Go名库讲解》](https://github.com/Unknwon/go-rock-libraries-showcases)
 	- [Go 命令教程](https://github.com/hyper-carrot/go_command_tutorial)
 
-- 开源库：
-	- 各种库汇总 https://github.com/hackstoic/golang-open-source-projects/blob/master/golang-open-source-projects.md
 
 ## 其它资料
 
   - 书籍：
   	- HTTP API 设计指南 https://github.com/mikespook/http-api-design-zh-cn
-	
+
 ## 学习步骤
 
 1. go指南 对go有个概览 http://go-tour-zh.appspot.com/welcome/1 
