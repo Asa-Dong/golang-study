@@ -2,7 +2,7 @@
 ## 网址导航
 
 - 开源库：
-	- 各种库汇总 https://github.com/hackstoic/golang-open-source-projects/blob/master/golang-open-source-projects.md
+	- 各种库汇总 https://github.com/hackstoic/golang-open-source-projects
 
 - 辅助站点：
 	- [json2struct](https://mholt.github.io/json-to-go/) json 转 struct
