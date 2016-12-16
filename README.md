@@ -31,6 +31,13 @@
 	
 - 文件类型
 	- https://github.com/h2non/filetype
+	
+## go 项目
+
+- 分布式文件系统 
+	- seaweedfs https://github.com/chrislusf/seaweedfs
+	- bfs https://github.com/Terry-Mao/bfs
+- 数据库 https://github.com/boltdb/bolt	
 
 ## 资料汇总
 
